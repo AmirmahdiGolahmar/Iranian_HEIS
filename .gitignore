@@ -86,7 +86,6 @@ ipython_config.py
 .vscode/
 
 # Data files
-*.csv
 *.tsv
 *.data
 *.dat
