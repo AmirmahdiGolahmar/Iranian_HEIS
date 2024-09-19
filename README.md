@@ -9,7 +9,11 @@ https://github.com/sinaaasghari/Iranian_HEIS/tree/main
 
 ## Team
 زینب معیری
+
 عرشیا ربیعی
- مهدی سلیمی
+ 
+مهدی سلیمی
+
 امیرمهدی گل احمر
+
 فاطمه شمس
