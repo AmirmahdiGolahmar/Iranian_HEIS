@@ -8,12 +8,18 @@ The HEIS aims to hand in estimates of the average income and expenditure for urb
 https://github.com/sinaaasghari/Iranian_HEIS/tree/main
 
 ## Team
-زینب معیری
+1. Zeinab Moayeri :
+https://github.com/ZeinabMoayeri
 
-عرشیا ربیعی
- 
-مهدی سلیمی
+2. Arshia Rabie :
+https://github.com/4rshia2
 
-امیرمهدی گل احمر
+3. Mahdi Salimi : 
+https://github.com/Mahdi-Salimi
 
-فاطمه شمس
+4. Fateme Samadi :
+https://github.com/fatemehs999
+
+5. AmirMahdi Golahmar : 
+https://github.com/AmirmahdiGolahmar
+
